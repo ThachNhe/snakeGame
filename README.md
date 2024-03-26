@@ -1,1 +1,1 @@
-###Try: https://thachnhe.github.io/snakeGame/
+## Try: https://thachnhe.github.io/snakeGame/
